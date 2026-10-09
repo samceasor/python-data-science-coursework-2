@@ -1,0 +1,7 @@
+column,dtype,missing_values,unique_values
+time,str,0,365
+temperature_2m_mean,float64,0,53
+relative_humidity_2m_mean,int64,0,33
+precipitation_sum,float64,0,104
+windspeed_10m_max,float64,0,114
+pressure_msl_mean,float64,0,86
